@@ -179,7 +179,7 @@ int main()
 	// Seed random number generator
 	srand(clock());
 
-	// Use olcConsoleGameEngine derived app
+	/
 	OneLoneCoder_Maze game;
 	game.ConstructConsole(160, 100, 8, 8);
 	game.Start();
