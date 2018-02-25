@@ -3,7 +3,7 @@
 
 #ifndef UNICODE
 #error Please enable UNICODE for your compiler! VS: Project Properties -> General -> \
-Character Set -> Use Unicode. Thanks! - Javidx9
+Character Set -> Use Unicode. Thanks!
 #endif*/
 
 #include <iostream>
